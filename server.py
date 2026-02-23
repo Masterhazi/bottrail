@@ -44,7 +44,6 @@ def endquiz():
     q = questions[state["index"]]
 
     message = f"""
-Correct Answer: {q['answer']}
 {q['motivation']}
 Learn Python with us: https://www.youtube.com/playlist?list=PLYoPEqHJItwzvdpNwxCThQ1I0aj0uklp9"""
 
@@ -58,4 +57,5 @@ Learn Python with us: https://www.youtube.com/playlist?list=PLYoPEqHJItwzvdpNwxC
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
+
     app.run(host="0.0.0.0", port=port)
