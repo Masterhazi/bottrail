@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Which keyword starts a Python function?",
+        "A": "function",
+        "B": "def",
+        "C": "define",
+        "D": "func",
+        "answer": "B",
+        "motivation": "Keep learning, success awaits!"
+    },
+    {
+        "question": "What symbol is used for comments?",
+        "A": "//",
+        "B": "/*",
+        "C": "#",
+        "D": "--",
+        "answer": "C",
+        "motivation": "Small steps lead to big results."
+    },
+    {
+        "question": "Which data type is mutable?",
+        "A": "tuple",
+        "B": "string",
+        "C": "list",
+        "D": "int",
+        "answer": "C",
+        "motivation": "Practice makes coding easier."
+    },
+    {
+        "question": "What is the result of 5 // 2?",
+        "A": "2.5",
+        "B": "2",
+        "C": "3",
+        "D": "1",
+        "answer": "B",
+        "motivation": "Embrace the challenges ahead."
+    },
+    {
+        "question": "Which is used for printing output?",
+        "A": "input()",
+        "B": "print()",
+        "C": "display()",
+        "D": "show()",
+        "answer": "B",
+        "motivation": "Believe in your coding journey."
+    },
+    {
+        "question": "What denotes the end of a statement?",
+        "A": ";",
+        "B": ".",
+        "C": "Newline",
+        "D": ":",
+        "answer": "C",
+        "motivation": "Consistency is key to growth."
+    },
+    {
+        "question": "Which is the Python assignment operator?",
+        "A": "==",
+        "B": "=",
+        "C": ":+",
+        "D": ":=",
+        "answer": "B",
+        "motivation": "You are capable of great things."
+    },
+    {
+        "question": "How to define a boolean?",
+        "A": "True/False",
+        "B": "true/false",
+        "C": "TRUE/FALSE",
+        "D": "T/F",
+        "answer": "A",
+        "motivation": "Every error is a lesson learned."
+    },
+    {
+        "question": "What is a sequence of characters called?",
+        "A": "char",
+        "B": "string",
+        "C": "text",
+        "D": "word",
+        "answer": "B",
+        "motivation": "Focus on understanding concepts."
+    },
+    {
+        "question": "Which loop type repeats a fixed number?",
+        "A": "while",
+        "B": "for",
+        "C": "do-while",
+        "D": "repeat",
+        "answer": "B",
+        "motivation": "Keep typing, keep solving."
+    },
+    {
+        "question": "What keyword starts a conditional?",
+        "A": "condition",
+        "B": "if",
+        "C": "check",
+        "D": "when",
+        "answer": "B",
+        "motivation": "Logic flows with practice."
+    },
+    {
+        "question": "How to check equality?",
+        "A": "=",
+        "B": "==",
+        "C": "!==",
+        "D": "=>",
+        "answer": "B",
+        "motivation": "Dedication pays off big time."
+    },
+    {
+        "question": "What is indentation used for?",
+        "A": "Spacing",
+        "B": "Block structure",
+        "C": "Visual appeal",
+        "D": "Debugging",
+        "answer": "B",
+        "motivation": "Structure your code cleanly."
+    },
+    {
+        "question": "Which is a container type?",
+        "A": "float",
+        "B": "set",
+        "C": "bool",
+        "D": "NoneType",
+        "answer": "B",
+        "motivation": "Explore Python's powerful types."
+    },
+    {
+        "question": "What is used to stop a loop early?",
+        "A": "continue",
+        "B": "exit",
+        "C": "break",
+        "D": "stop",
+        "answer": "C",
+        "motivation": "Know your control flow tools."
+    },
+    {
+        "question": "What does 'len()' return for a list?",
+        "A": "Sum of items",
+        "B": "Number of items",
+        "C": "First item",
+        "D": "Type",
+        "answer": "B",
+        "motivation": "Counting elements is useful."
+    },
+    {
+        "question": "Which is immutable?",
+        "A": "list",
+        "B": "dictionary",
+        "C": "tuple",
+        "D": "set",
+        "answer": "C",
+        "motivation": "Understand data immutability."
+    },
+    {
+        "question": "What is a collection of key-value pairs?",
+        "A": "list",
+        "B": "tuple",
+        "C": "dictionary",
+        "D": "array",
+        "answer": "C",
+        "motivation": "Dictionaries are very useful."
+    },
+    {
+        "question": "What is needed before 'else'?",
+        "A": "while",
+        "B": "elif",
+        "C": "for",
+        "D": "if",
+        "answer": "D",
+        "motivation": "Conditional logic is essential."
+    },
+    {
+        "question": "What generates random numbers?",
+        "A": "math module",
+        "B": "time module",
+        "C": "random module",
+        "D": "os module",
+        "answer": "C",
+        "motivation": "Embrace randomness in code."
+    },
+    {
+        "question": "What is the result of 10 % 3?",
+        "A": "3",
+        "B": "1",
+        "C": "0",
+        "D": "3.33",
+        "answer": "B",
+        "motivation": "Modulo finds the remainder."
+    },
+    {
+        "question": "Which adds an item to a list end?",
+        "A": "insert()",
+        "B": "add()",
+        "C": "append()",
+        "D": "extend()",
+        "answer": "C",
+        "motivation": "Appending is a common list task."
+    },
+    {
+        "question": "What is the symbol for 'and' logic?",
+        "A": "&&",
+        "B": "and",
+        "C": "&",
+        "D": "&&&",
+        "answer": "B",
+        "motivation": "Boolean operators power decisions."
+    },
+    {
+        "question": "How to get user input?",
+        "A": "get_input()",
+        "B": "read()",
+        "C": "input()",
+        "D": "scan()",
+        "answer": "C",
+        "motivation": "Interacting with users is fun."
+    },
+    {
+        "question": "What defines a class?",
+        "A": "class",
+        "B": "object",
+        "C": "struct",
+        "D": "define",
+        "answer": "A",
+        "motivation": "Object-Oriented programming awaits."
+    },
+    {
+        "question": "What is an error during execution?",
+        "A": "Syntax Error",
+        "B": "Logical Error",
+        "C": "Runtime Error",
+        "D": "Indentation Error",
+        "answer": "C",
+        "motivation": "Handle exceptions gracefully."
+    },
+    {
+        "question": "How to start a multi-line comment?",
+        "A": "'''",
+        "B": "/* */",
+        "C": "--",
+        "D": "//",
+        "answer": "A",
+        "motivation": "Use docstrings for great docs."
+    },
+    {
+        "question": "What is the default loop step?",
+        "A": "0",
+        "B": "2",
+        "C": "1",
+        "D": "None",
+        "answer": "C",
+        "motivation": "Default is often 1."
+    },
+    {
+        "question": "What does 'or' logic check?",
+        "A": "Both must be true",
+        "B": "At least one true",
+        "C": "Both must be false",
+        "D": "Exclusively one true",
+        "answer": "B",
+        "motivation": "Understand logical OR."
+    },
+    {
+        "question": "Which operator performs division?",
+        "A": "/",
+        "B": "//",
+        "C": "%",
+        "D": "*",
+        "answer": "A",
+        "motivation": "Division is fundamental math."
+    },
+    {
+        "question": "What is used for object methods?",
+        "A": "self",
+        "B": "this",
+        "C": "object",
+        "D": "cls",
+        "answer": "A",
+        "motivation": "Self refers to the instance."
+    },
+    {
+        "question": "What creates a new empty list?",
+        "A": "{}",
+        "B": "()",
+        "C": "[]",
+        "D": "()",
+        "answer": "C",
+        "motivation": "Square brackets define lists."
+    },
+    {
+        "question": "What error is missing a colon?",
+        "A": "TypeError",
+        "B": "IndentationError",
+        "C": "SyntaxError",
+        "D": "NameError",
+        "answer": "C",
+        "motivation": "Punctuation matters a lot."
+    },
+    {
+        "question": "Which function transforms to integer?",
+        "A": "str()",
+        "B": "float()",
+        "C": "int()",
+        "D": "bool()",
+        "answer": "C",
+        "motivation": "Casting types is often needed."
+    },
+    {
+        "question": "What is an unchangeable sequence?",
+        "A": "list",
+        "B": "set",
+        "C": "tuple",
+        "D": "dict",
+        "answer": "C",
+        "motivation": "Tuples keep data safe."
+    },
+    {
+        "question": "Keyword to skip current loop cycle?",
+        "A": "break",
+        "B": "next",
+        "C": "continue",
+        "D": "skip",
+        "answer": "C",
+        "motivation": "Continue moves to the next item."
+    },
+    {
+        "question": "What represents 'not equal'?",
+        "A": "!=",
+        "B": "<>",
+        "C": "><",
+        "D": "/=",
+        "answer": "A",
+        "motivation": "Inequality is important too."
+    },
+    {
+        "question": "Which module handles file paths?",
+        "A": "sys",
+        "B": "path",
+        "C": "os",
+        "D": "io",
+        "answer": "C",
+        "motivation": "The 'os' module is versatile."
+    },
+    {
+        "question": "How is a dictionary initialized?",
+        "A": "[]",
+        "B": "()",
+        "C": "{}",
+        "D": "<>",
+        "answer": "C",
+        "motivation": "Curly braces for dictionaries."
+    },
+    {
+        "question": "What is the name for the 'pass' use?",
+        "A": "Exit",
+        "B": "Placeholder",
+        "C": "Error",
+        "D": "Skip",
+        "answer": "B",
+        "motivation": "Use 'pass' when code is needed later."
+    },
+    {
+        "question": "What is type conversion called?",
+        "A": "Refactoring",
+        "B": "Coercion",
+        "C": "Transpiling",
+        "D": "Binding",
+        "answer": "B",
+        "motivation": "Coercion changes data types."
+    },
+    {
+        "question": "Which prints nothing by default?",
+        "A": "print('Hello')",
+        "B": "pass",
+        "C": "return",
+        "D": "exit()",
+        "answer": "B",
+        "motivation": "'pass' does absolutely nothing."
+    },
+    {
+        "question": "What is used to open files?",
+        "A": "read()",
+        "B": "open()",
+        "C": "file()",
+        "D": "io.open()",
+        "answer": "B",
+        "motivation": "Always use the 'open' function."
+    },
+    {
+        "question": "How do you iterate over a string?",
+        "A": "while char in string:",
+        "B": "for char in string:",
+        "C": "for char = string:",
+        "D": "loop char in string:",
+        "answer": "B",
+        "motivation": "Strings are iterable too!"
+    },
+    {
+        "question": "What does 'is' check?",
+        "A": "Value equality",
+        "B": "Identity (memory location)",
+        "C": "Type",
+        "D": "Length",
+        "answer": "B",
+        "motivation": "'is' checks if they are the same object."
+    },
+    {
+        "question": "What is a collection of unique items?",
+        "A": "list",
+        "B": "tuple",
+        "C": "set",
+        "D": "dict",
+        "answer": "C",
+        "motivation": "Sets enforce uniqueness."
+    },
+    {
+        "question": "What is the result of True and False?",
+        "A": "True",
+        "B": "False",
+        "C": "Error",
+        "D": "None",
+        "answer": "B",
+        "motivation": "AND requires both to be true."
+    },
+    {
+        "question": "What is a floating-point number?",
+        "A": "int",
+        "B": "bool",
+        "C": "float",
+        "D": "str",
+        "answer": "C",
+        "motivation": "Floats handle decimals."
+    },
+    {
+        "question": "What is 3 ** 2?",
+        "A": "6",
+        "B": "9",
+        "C": "5",
+        "D": "1.5",
+        "answer": "B",
+        "motivation": "Power operator (**) is exponential."
+    },
+    {
+        "question": "What ends a Python program normally?",
+        "A": "break",
+        "B": "return",
+        "C": "exit()",
+        "D": "End of code",
+        "answer": "D",
+        "motivation": "Reaching the end is success!"
+    }
+]
