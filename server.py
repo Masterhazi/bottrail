@@ -41,11 +41,13 @@ def endquiz():
     state = load_state()
     if state["index"] >= len(questions):
         state["index"] = 0
+
     q = questions[state["index"]]
 
-    message = f"""
-{q['motivation']}
-Learn Python with us: https://www.youtube.com/playlist?list=PLYoPEqHJItwzvdpNwxCThQ1I0aj0uklp9"""
+    message = (
+        f"{q['motivation']}\n"
+        "Learn Python with us: https://www.youtube.com/playlist?list=PLYoPEqHJItwzvdpNwxCThQ1I0aj0uklp9"
+    )
 
     state["index"] = (state["index"] + 1) % len(questions)
     save_state(state)
@@ -54,8 +56,8 @@ Learn Python with us: https://www.youtube.com/playlist?list=PLYoPEqHJItwzvdpNwxC
 
 
 
-
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
 
     app.run(host="0.0.0.0", port=port)
+
